@@ -7,4 +7,4 @@
 
 其中每页都用了css技巧，为每页背景添加了颜色，有些页面为了更好的观感则选择了文字居中。
 
-[pythonanywhere地址](http://rangerb1.pythonanywhere.com/)
+[pythonanywhere地址](http://rangerwhy.pythonanywhere.com/)
