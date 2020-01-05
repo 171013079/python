@@ -43,7 +43,7 @@
 利用推导式使得在子页面中进行不同html的跳转<br>
 利用判断语句判断用户点击的是什么从而跳转到相应界面<br>
 在python档中赋予不同html文件不同的跳转地址并且开展出不同功能，实现python文档与html文档的数据交互(type) <br>
-提供app.py档以供查看：[app.py]([https://github.com/171013079/python/blob/master/app.py)
+提供app.py档以供查看：[app.py](https://github.com/171013079/python/blob/master/app.py)
 #### 六、页面简述：（由于需要截图的问题，页面缩放观感较差）
 * p1：显示主题内容：日益变胖的地球人，页面上方设有下一页按钮，可以进一步查看数据与图表
 ![](https://upload-images.jianshu.io/upload_images/9540329-8dc979b7b73568ba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
