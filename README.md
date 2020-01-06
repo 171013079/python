@@ -53,17 +53,18 @@
 
 
 * p3:同上，图表内容为世界地区肥胖症发生率，  在之前页面的基础上做了下拉选框 数据内容会随着选框选择变化而变化。
-![image.png](https://upload-images.jianshu.io/upload_images/9540329-0764848edc48db9b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/9540329-0764848edc48db9b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 * p4:图表主题为：不同发展国家由于超重而引发的患病率分析。用了tab栏，可切换图表内容。
 ![](https://upload-images.jianshu.io/upload_images/9540329-e948bfc221306c77.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 * p5：图表主题为：肥胖是早期死亡的主要危险因素之一
-![image.png](https://upload-images.jianshu.io/upload_images/9540329-0f82c9b0b2e012f1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/9540329-0f82c9b0b2e012f1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 * p6/ p7：此页面大致同上，不再赘述。
 ![](https://upload-images.jianshu.io/upload_images/9540329-2c7948e890955c7d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ![](https://upload-images.jianshu.io/upload_images/9540329-3d611219d01473d9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
