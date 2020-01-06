@@ -63,6 +63,8 @@
 ![image.png](https://upload-images.jianshu.io/upload_images/9540329-0f82c9b0b2e012f1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 * p6/ p7：此页面大致同上，不再赘述。
+![](https://upload-images.jianshu.io/upload_images/9540329-2c7948e890955c7d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/9540329-3d611219d01473d9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 （ps：其中每页都用了css技巧，为每页背景添加了颜色，有些页面为了更好的观感则选择了文字居中。）
